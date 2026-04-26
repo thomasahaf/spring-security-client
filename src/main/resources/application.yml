@@ -17,7 +17,7 @@ spring:
         registration:
           login-client:
             provider: spring
-            client-id: symfony-client
+            client-id: beer-db
             client-secret: secret
             client-authentication-method: client_secret_post
             authorization-grant-type: authorization_code
